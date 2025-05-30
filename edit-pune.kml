@@ -3,12 +3,9 @@
 <Document>
   <Style id="blue-outline-no-fill">
     <LineStyle>
-      <color>ff0000ff</color> <!-- Blue -->
+      <color>ff0000ff</color> 
       <width>2</width>
     </LineStyle>
-    <PolyStyle>
-      <color>00000000</color> <!-- Transparent -->
-    </PolyStyle>
   </Style>
 
   <Placemark>
